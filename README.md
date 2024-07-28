@@ -19,7 +19,7 @@ The primary dataset used for this analysis is the "Movie Data Homework.xmls" fil
 
 ### Tools
 
- - Power Query - Data Cleaning Download here
+ - Power Query - Data Cleaning Download here 
  - Excel, Pivot Tables - Data Analysis, Creating reports and visualizations
 
 ### Data Cleaning/Preparation
@@ -47,3 +47,5 @@ One of interesting features I was working with was a specific code for Grouping 
                                             }
 ...
 
+###Excel Dashboard
+Can be downloaded here
