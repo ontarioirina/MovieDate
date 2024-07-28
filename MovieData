@@ -1,0 +1,38 @@
+#movie data analysis dashboard
+
+##Table of Content
+-[Project Overview](#project-overview)
+-[Data sources](#data sources)
+-[Findings](#results-and-findings)
+
+###Project overview
+
+This data analysis project aims to provide insights into the performance and trends of movies from 2012 to 2016.
+By analyzing various aspects of the movie data, we seek to identify patterns, make data-driven recommendations, and gain a deeper understanding of the industry's dynamics.
+
+### Data Sources
+
+Movie Data: 
+
+The primary dataset used for this analysis is the "Movie Data Homework.xmls" file, containing detailed information about each movie's performance, actors, directors etc.
+
+###Tools
+
+- Power Query 
+- Excel, Pivot Tables - Data Analysis, Creating reports and vizualizations
+
+### Data Cleaning/Preparation
+
+In the initial data preparation phase, we prformed the following tasks:
+1. Data loading and inspection
+2. Handling errors, missing values
+3. Data cleaning and formatting
+
+###Exploratory Data Analysis
+
+###Results and Findings
+
+### M Language
+
+One of interesting features I was working with was a specific dode for Grouping in M Language which enables me to combine genres for further analysis.
+
